@@ -6,7 +6,7 @@ Link: /publication/2024-02-17-paper-title-number-4
 Excerpt: 'This paper is about fixing template issue #693.'
 Date: 2024-02-17
 Journal: 'GitHub Journal of Bugs'
-URL:'http://academicpages.github.io/files/paper3.pdf'
+URL: 'http://academicpages.github.io/files/paper3.pdf'
 Citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
