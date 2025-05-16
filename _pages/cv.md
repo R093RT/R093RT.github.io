@@ -11,35 +11,35 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in Environmental Chemistry, University of Queensland, 2021 
+* PgCert in Ecological Surveying Techniques, University of Oxford, 2017
+* MSc in Natural Resources Management, Kingston University, 2015
+* BSc (Hons) in Zoology, Anglia Ruskin University, 2013
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* EY – Climate Change and Sustainability Services							
+  * Manager (M3) – Innovation Solutions Lead Thailand & Australia, Jul’24 – Present
+  * Manager (M1) – Closure and Environmental Liabilities Specialist Australia, Jan’24 – Jul’24
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Envirometrics.io – Founder and Managing Director Australia, Jan’21 – Jan’24
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Sustainable Minerals Institute – Research Scientist Australia, Jan’18 – Dec’21 
+   * Supervisor: Dr Antony van der Ent
+
+* Keolis – ESG Analyst United Kingdom, Feb’17 – Dec’17
+
+* hViVO – Project Administrator United Kingdom, Nov’15 – May’17
   
-Skills
+Certifications
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Cambridge Institute of Sustainability Leadership Sustainable Supply Chain Management, Dec’24
+
+* Project Management Institute Project Management Professional (PMP), Jan’24
+
+* Australian Institute of Company Directors Foundations of Directorship, Nov’22
+
+* Accounting for Nature Accredited Expert, Nov’22
 
 Publications
 ======
