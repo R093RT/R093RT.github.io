@@ -2,7 +2,7 @@
 Title: "Paper Title Number 4"
 Collection: publications
 Category: conferences
-Link: /publication/2024-02-17-paper-title-number-4
+Link: /publications/2024-02-17-paper-title-number-4
 Excerpt: 'This paper is about fixing template issue #693.'
 Date: 2024-02-17
 Journal: 'GitHub Journal of Bugs'
